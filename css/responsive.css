@@ -1,0 +1,1514 @@
+/* responsive del sito */
+
+/* galaxy s5 portrait*/
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 640px) 
+and (orientation : portrait) { 
+	#fh5co-logo
+	{
+		width:65%;
+		font-size:28px;
+	}
+	.htlogo
+	{
+		margin-bottom:30px;
+	}
+	#fh5co-menu-wrap
+	{
+		display:none;
+		width:100%;
+		padding-bottom:10px;
+	}
+	.sf-menu
+	{
+		width:100%;
+		margin-left:0px;
+	}
+	.sf-menu li
+	{
+		float:left;
+		width:100%;
+	}
+	
+	/* index */
+	.responsive_just
+	{
+		text-align:justify;
+	}
+	
+	/* scorer */
+	.mg_container .error_box,.mg_container .success_box
+	{
+		width:90%;
+		margin-left:5%;
+		margin-right:5%;
+	}
+	.mg_container .title,.mg_container .subtitle
+	{
+		text-align:center;
+	}
+	.mg_container .input_row .labelf
+	{
+		width:100%;
+		margin-bottom:5px;
+	}
+	.mg_container .input_row .control
+	{
+		width: 90%;
+		margin-left: 5%;
+	}
+	.mg_container .input_row .form_button
+	{
+		width:90%;
+		margin-left:5%;
+	}
+	#register-form
+	{
+		padding-left:0px;
+		border-top:1px solid #216b2f;
+		margin-top:30px;
+		float:left;
+	}
+	.input_row50
+	{
+		width:100%;
+	}
+	.mg_container .input_row .form_button2
+	{
+		width:90%;
+		margin-left:5%;
+	}
+	.mg_container .input_row .quickbutton
+	{
+		float:left;
+	}
+	
+	
+	/* contact */
+	#fh5co-contact
+	{
+		padding-top: 20px;
+	}
+	#contactForm
+	{
+		width: 90%;
+		margin-left: 5%;
+		text-align: justify;
+		margin-top: 30px;
+	}
+	
+	#contactForm input[type="submit"]
+	{
+		width:100%;
+	}
+	
+	/* dashboard */
+	.desktop
+	{
+		display:none;
+	}
+	.mg_dashboard
+	{
+		padding-top: 30px !important;
+	}
+	.mg_dashboard .intest .team_logo img
+	{
+		width: 40%;
+		margin-right: 30%;
+		margin-left: 30%;
+	}
+	.mg_dashboard .controls .scorer_category
+	{
+		width: 100%;
+		margin-bottom: 5px;
+	}
+	
+	.mg_dashboard .controls .scorer_control
+	{
+		margin-bottom:5px;
+		width:48%;
+		min-height:64px;
+		font-size:13px;
+	}
+	
+	.int .player
+	{
+		font-size:20px !important;
+		padding-top:0px !important;
+	}
+	
+	.mg_dashboard .scorer_tables .table .table_values .row_val
+	{
+		height:auto;
+	}
+	
+	.table_values .int
+	{
+		font-size:13px !important;
+	}
+	
+	.row_val .big_id
+	{
+		float:left;
+		width:30%;
+		font-size:13px !important;
+	}
+	.row_val .big_player
+	{
+		text-align:center;
+		float:left;
+		width:70%;
+	}	
+	.row_val .id
+	{
+		width: 30%;
+		font-size: 11px;
+		padding-top: 9px;
+	}
+	.row_val .player
+	{
+		float: left;
+		width: 70%;
+		font-size: 17px;
+		text-align: left;
+		padding-top: 3px;
+		padding-left: 3px;
+	}
+	.row_val .goals
+	{
+		width: 33%;
+		text-align: center;
+	}
+	.row_val .presenze
+	{
+		width: 33%;
+		text-align: center;
+	}
+	.row_val .average
+	{
+		width: 33%;
+		text-align: center;
+	}
+	
+	.donation
+	{
+		text-align:center;
+	}
+	
+	#bl_my_best_scorer .label_my
+	{
+		display:none;
+	}
+	
+	.res_seasons_dates
+	{
+		display:none;
+	}
+	
+	.res_panels 
+	{
+		margin-top: 60px;
+	}
+	
+	/* analyzer */
+	.an_right 
+	{
+		display:none;
+	}
+	
+	.progress_bar 
+	{
+		margin-top: 10px;
+		margin-bottom: 100px;
+	}
+	
+	.season_status
+	{
+		font-size: 20px;
+		margin-top: 20px;
+	}
+	
+	
+	
+}
+
+/* galaxy s5 landscape */
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 640px) 
+and (orientation : landscape)
+{
+	/* menu */
+	#fh5co-logo
+	{
+		height:50px;
+		margin:0px;
+		padding-top: 5px;
+		font-size: 35px;
+	}
+	.fh5co-nav-toggle
+	{
+		margin-top:9px;
+	}
+	.fh5co-cover, .fh5co-hero
+	{
+		height:325px;
+	}
+	
+	
+	.htlogo
+	{
+		margin-bottom:30px;
+	}
+	#fh5co-menu-wrap
+	{
+		display:none;
+		width:100%;
+		padding-bottom:10px;
+	}
+	.sf-menu
+	{
+		width:100%;
+		margin-left:0px;
+	}
+	.sf-menu li
+	{
+		float:left;
+		width:100%;
+	}
+	
+	/* index */
+	.responsive_just
+	{
+		text-align:justify;
+	}
+	
+	/* scorer */
+	.mg_container .error_box,.mg_container .success_box
+	{
+		width:90%;
+		margin-left:5%;
+		margin-right:5%;
+	}
+	.mg_container .title,.mg_container .subtitle
+	{
+		text-align:center;
+	}
+	.mg_container .input_row .labelf
+	{
+		width:100%;
+		margin-bottom:5px;
+	}
+	.mg_container .input_row .control
+	{
+		width: 90%;
+		margin-left: 5%;
+	}
+	.mg_container .input_row .form_button
+	{
+		width:90%;
+		margin-left:5%;
+	}
+	#register-form
+	{
+		padding-left:0px;
+		border-top:1px solid #216b2f;
+		margin-top:30px;
+		float:left;
+	}
+	.input_row50
+	{
+		width:100%;
+	}
+	.mg_container .input_row .form_button2
+	{
+		width:90%;
+		margin-left:5%;
+	}
+	.mg_container .input_row .quickbutton
+	{
+		float:left;
+	}
+	
+	
+	/* contact */
+	#fh5co-contact
+	{
+		padding-top: 20px;
+	}
+	#contactForm
+	{
+		width: 90%;
+		margin-left: 5%;
+		text-align: justify;
+		margin-top: 30px;
+	}
+	
+	#contactForm input[type="submit"]
+	{
+		width:100%;
+	}
+	
+	/* dashboard */
+	.desktop
+	{
+		display:none;
+	}
+	.mg_dashboard
+	{
+		padding-top: 30px !important;
+	}
+	
+	.mg_dashboard .intest .team_name
+	{
+		margin-top:10px;
+	}
+	
+	.mg_dashboard .intest .team_id
+	{
+		margin-top:10px;	
+	}
+	
+	.mg_dashboard .controls .scorer_category
+	{
+		width: 100%;
+		margin-bottom: 5px;
+	}
+	
+	.mg_dashboard .controls .scorer_control
+	{
+		margin-bottom:5px;
+		width:48%;
+		font-size:14px;
+	}
+	
+	.int 
+	{
+		font-size:12px !important;
+		padding-top:11px !important;
+	}
+	
+	.mg_dashboard .scorer_tables .table .table_values .row_val
+	{
+		height:auto;
+	}
+	
+	.row_val .big_id
+	{
+		float:left;
+		font-size:12px !important;
+		width:15%;
+	}
+	
+	.row_val .big_player
+	{
+		float:left;
+		width:34%;
+		text-align:left;
+	}
+	
+	.row_val .id
+	{
+		width: 15%;
+		font-size: 11px;
+		padding-top: 9px;
+	}
+	.row_val .player
+	{
+		float: left;
+		width: 34%;
+		font-size: 17px;
+		text-align: left;
+		padding-top: 3px;
+		padding-left: 3px;
+	}
+	.row_val .goals
+	{
+		width: 17%;
+		text-align: center;
+	}
+	
+	.row_val .presenze
+	{
+		width: 17%;
+		text-align: center;
+	}
+	.row_val .average
+	{
+		width: 17%;
+		text-align: center;
+	}
+}
+
+
+/* iphone 6 landscape */
+@media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 667px) 
+and (orientation : landscape) { 
+
+	/* menu */
+	#fh5co-logo
+	{
+		height:50px;
+		margin:0px;
+		padding-top: 5px;
+		font-size: 35px;
+	}
+	.fh5co-nav-toggle
+	{
+		margin-top:9px;
+	}
+	.fh5co-cover, .fh5co-hero
+	{
+		height:325px;
+	}
+
+	.htlogo
+	{
+		margin-bottom:30px;
+	}
+	#fh5co-menu-wrap
+	{
+		display:none;
+		width:100%;
+		padding-bottom:10px;
+	}
+	.sf-menu
+	{
+		width:100%;
+		margin-left:0px;
+	}
+	.sf-menu li
+	{
+		float:left;
+		width:100%;
+	}
+	
+	/* index */
+	.responsive_just
+	{
+		text-align:justify;
+	}
+	
+	/* scorer */
+	.mg_container .error_box,.mg_container .success_box
+	{
+		width:90%;
+		margin-left:5%;
+		margin-right:5%;
+	}
+	.mg_container .title,.mg_container .subtitle
+	{
+		text-align:center;
+	}
+	.mg_container .input_row .labelf
+	{
+		width:100%;
+		margin-bottom:5px;
+	}
+	.mg_container .input_row .control
+	{
+		width: 90%;
+		margin-left: 5%;
+	}
+	.mg_container .input_row .form_button
+	{
+		width:90%;
+		margin-left:5%;
+	}
+	#register-form
+	{
+		padding-left:0px;
+		border-top:1px solid #216b2f;
+		margin-top:30px;
+		float:left;
+	}
+	.input_row50
+	{
+		width:100%;
+	}
+	.mg_container .input_row .form_button2
+	{
+		width:90%;
+		margin-left:5%;
+	}
+	.mg_container .input_row .quickbutton
+	{
+		float:left;
+	}
+	
+	
+	/* contact */
+	#fh5co-contact
+	{
+		padding-top: 20px;
+	}
+	#contactForm
+	{
+		width: 90%;
+		margin-left: 5%;
+		text-align: justify;
+		margin-top: 30px;
+	}
+	
+	#contactForm input[type="submit"]
+	{
+		width:100%;
+	}
+	
+	/* dashboard */
+	.desktop
+	{
+		display:none;
+	}
+	.mg_dashboard
+	{
+		padding-top: 30px !important;
+	}
+	
+	.mg_dashboard .intest .team_name
+	{
+		margin-top:10px;
+	}
+	
+	.mg_dashboard .intest .team_id
+	{
+		margin-top:10px;	
+	}
+	
+	.mg_dashboard .controls .scorer_category
+	{
+		width: 100%;
+		margin-bottom: 5px;
+	}
+	
+	.mg_dashboard .controls .scorer_control
+	{
+		margin-bottom:5px;
+		width:48%;
+		font-size:14px;
+	}
+	
+	.int 
+	{
+		font-size:12px !important;
+		padding-top:11px !important;
+	}
+	
+	.mg_dashboard .scorer_tables .table .table_values .row_val
+	{
+		height:auto;
+	}
+	
+	.row_val .big_id
+	{
+		float:left;
+		font-size:12px !important;
+		width:15%;
+	}
+	
+	.row_val .big_player
+	{
+		float:left;
+		width:34%;
+		text-align:left;
+	}
+	
+	.row_val .id
+	{
+		width: 15%;
+		font-size: 11px;
+		padding-top: 9px;
+	}
+	.row_val .player
+	{
+		float: left;
+		width: 34%;
+		font-size: 17px;
+		text-align: left;
+		padding-top: 3px;
+		padding-left: 3px;
+	}
+	.row_val .goals
+	{
+		width: 17%;
+		text-align: center;
+	}
+	
+	.row_val .presenze
+	{
+		width: 17%;
+		text-align: center;
+	}
+	.row_val .average
+	{
+		width: 17%;
+		text-align: center;
+	}
+}
+
+/* iphone 6 portrait */
+@media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 667px) 
+and (orientation : portrait) { 
+	#fh5co-logo
+	{
+		width:61%;
+		font-size:35px;
+	}
+	.htlogo
+	{
+		margin-bottom:30px;
+	}
+	#fh5co-menu-wrap
+	{
+		display:none;
+		width:100%;
+		padding-bottom:10px;
+	}
+	.sf-menu
+	{
+		width:100%;
+		margin-left:0px;
+	}
+	.sf-menu li
+	{
+		float:left;
+		width:100%;
+	}
+	
+	/* index */
+	.responsive_just
+	{
+		text-align:justify;
+	}
+	
+	/* scorer */
+	.mg_container .error_box,.mg_container .success_box
+	{
+		width:90%;
+		margin-left:5%;
+		margin-right:5%;
+	}
+	.mg_container .title,.mg_container .subtitle
+	{
+		text-align:center;
+	}
+	.mg_container .input_row .labelf
+	{
+		width:100%;
+		margin-bottom:5px;
+	}
+	.mg_container .input_row .control
+	{
+		width: 90%;
+		margin-left: 5%;
+	}
+	.mg_container .input_row .form_button
+	{
+		width:90%;
+		margin-left:5%;
+	}
+	#register-form
+	{
+		padding-left:0px;
+		border-top:1px solid #216b2f;
+		margin-top:30px;
+		float:left;
+	}
+	.input_row50
+	{
+		width:100%;
+	}
+	.mg_container .input_row .form_button2
+	{
+		width:90%;
+		margin-left:5%;
+	}
+	.mg_container .input_row .quickbutton
+	{
+		float:left;
+	}
+	
+	
+	/* contact */
+	#fh5co-contact
+	{
+		padding-top: 20px;
+	}
+	#contactForm
+	{
+		width: 90%;
+		margin-left: 5%;
+		text-align: justify;
+		margin-top: 30px;
+	}
+	
+	#contactForm input[type="submit"]
+	{
+		width:100%;
+	}
+	
+	/* dashboard */
+	.desktop
+	{
+		display:none;
+	}
+	.mg_dashboard
+	{
+		padding-top: 30px !important;
+	}
+	.mg_dashboard .intest .team_logo img
+	{
+		width: 40%;
+		margin-right: 30%;
+		margin-left: 30%;
+	}
+	.mg_dashboard .controls .scorer_category
+	{
+		width: 100%;
+		margin-bottom: 5px;
+	}
+	
+	.mg_dashboard .controls .scorer_control
+	{
+		margin-bottom:5px;
+		width:48%;
+		min-height:64px;
+		font-size:14px;
+	}
+		
+	.table_values .int
+	{
+		font-size:13px !important;
+	}
+	
+	.row_val .big_id
+	{
+		float:left;
+		width:30%;
+		font-size:13px !important;
+	}
+	.row_val .big_player
+	{
+		text-align:center;
+		float:left;
+		width:70%;
+	}	
+	.row_val .id
+	{
+		width: 30%;
+		font-size: 11px;
+		padding-top: 9px;
+	}
+	.row_val .player
+	{
+		float: left;
+		width: 70%;
+		font-size: 17px;
+		text-align: left;
+		padding-top: 3px;
+		padding-left: 3px;
+	}
+	.row_val .goals
+	{
+		width: 33%;
+		text-align: center;
+	}
+	.row_val .presenze
+	{
+		width: 33%;
+		text-align: center;
+	}
+	.row_val .average
+	{
+		width: 33%;
+		text-align: center;
+	}
+	
+}
+
+/* iphone6plus portrait */
+@media only screen 
+and (min-device-width : 414px) 
+and (max-device-width : 736px) 
+and (orientation : portrait) { 
+	#fh5co-logo
+	{
+		width:61%;
+		font-size:35px;
+	}
+	.htlogo
+	{
+		margin-bottom:30px;
+	}
+	#fh5co-menu-wrap
+	{
+		display:none;
+		width:100%;
+		padding-bottom:10px;
+	}
+	.sf-menu
+	{
+		width:100%;
+		margin-left:0px;
+	}
+	.sf-menu li
+	{
+		float:left;
+		width:100%;
+	}
+	
+	/* index */
+	.responsive_just
+	{
+		text-align:justify;
+	}
+	
+	/* scorer */
+	.mg_container .error_box,.mg_container .success_box
+	{
+		width:90%;
+		margin-left:5%;
+		margin-right:5%;
+	}
+	.mg_container .title,.mg_container .subtitle
+	{
+		text-align:center;
+	}
+	.mg_container .input_row .labelf
+	{
+		width:100%;
+		margin-bottom:5px;
+	}
+	.mg_container .input_row .control
+	{
+		width: 90%;
+		margin-left: 5%;
+	}
+	.mg_container .input_row .form_button
+	{
+		width:90%;
+		margin-left:5%;
+	}
+	#register-form
+	{
+		padding-left:0px;
+		border-top:1px solid #216b2f;
+		margin-top:30px;
+		float:left;
+	}
+	.input_row50
+	{
+		width:100%;
+	}
+	.mg_container .input_row .form_button2
+	{
+		width:90%;
+		margin-left:5%;
+	}
+	.mg_container .input_row .quickbutton
+	{
+		float:left;
+	}
+	
+	
+	/* contact */
+	#fh5co-contact
+	{
+		padding-top: 20px;
+	}
+	#contactForm
+	{
+		width: 90%;
+		margin-left: 5%;
+		text-align: justify;
+		margin-top: 30px;
+	}
+	
+	#contactForm input[type="submit"]
+	{
+		width:100%;
+	}
+	
+	/* dashboard */
+	.desktop
+	{
+		display:none;
+	}
+	.mg_dashboard
+	{
+		padding-top: 30px !important;
+	}
+	.mg_dashboard .intest .team_logo img
+	{
+		width: 40%;
+		margin-right: 30%;
+		margin-left: 30%;
+	}
+	.mg_dashboard .controls .scorer_category
+	{
+		width: 100%;
+		margin-bottom: 5px;
+	}
+	
+	.mg_dashboard .controls .scorer_control
+	{
+		margin-bottom:5px;
+		width:48%;
+		min-height:64px;
+		font-size:13px;
+	}
+	
+	.table_values .int
+	{
+		font-size:13px !important;
+	}
+	
+	.row_val .big_id
+	{
+		float:left;
+		width:30%;
+		font-size:13px !important;
+	}
+	.row_val .big_player
+	{
+		text-align:center;
+		float:left;
+		width:70%;
+	}	
+	.row_val .id
+	{
+		width: 30%;
+		font-size: 11px;
+		padding-top: 9px;
+	}
+	.row_val .player
+	{
+		float: left;
+		width: 70%;
+		font-size: 17px;
+		text-align: left;
+		padding-top: 3px;
+		padding-left: 3px;
+	}
+	.row_val .goals
+	{
+		width: 33%;
+		text-align: center;
+	}
+	.row_val .presenze
+	{
+		width: 33%;
+		text-align: center;
+	}
+	.row_val .average
+	{
+		width: 33%;
+		text-align: center;
+	}
+}
+
+/* iphone6plus landscape */
+@media only screen 
+and (min-device-width : 414px) 
+and (max-device-width : 736px) 
+and (orientation : landscape) { 
+
+	/* menu */
+	#fh5co-logo
+	{
+		height:50px;
+		margin:0px;
+		padding-top: 5px;
+		font-size: 35px;
+	}
+	.fh5co-nav-toggle
+	{
+		margin-top:9px;
+	}
+	.fh5co-cover, .fh5co-hero
+	{
+		height:325px;
+	}
+
+	.htlogo
+	{
+		margin-bottom:30px;
+	}
+	#fh5co-menu-wrap
+	{
+		display:none;
+		width:100%;
+		padding-bottom:10px;
+	}
+	.sf-menu
+	{
+		width:100%;
+		margin-left:0px;
+	}
+	.sf-menu li
+	{
+		float:left;
+		width:100%;
+	}
+	
+	/* index */
+	.responsive_just
+	{
+		text-align:justify;
+	}
+	
+	/* scorer */
+	.mg_container .error_box,.mg_container .success_box
+	{
+		width:90%;
+		margin-left:5%;
+		margin-right:5%;
+	}
+	.mg_container .title,.mg_container .subtitle
+	{
+		text-align:center;
+	}
+	.mg_container .input_row .labelf
+	{
+		width:100%;
+		margin-bottom:5px;
+	}
+	.mg_container .input_row .control
+	{
+		width: 90%;
+		margin-left: 5%;
+	}
+	.mg_container .input_row .form_button
+	{
+		width:90%;
+		margin-left:5%;
+	}
+	#register-form
+	{
+		padding-left:0px;
+		border-top:1px solid #216b2f;
+		margin-top:30px;
+		float:left;
+	}
+	.input_row50
+	{
+		width:100%;
+	}
+	.mg_container .input_row .form_button2
+	{
+		width:90%;
+		margin-left:5%;
+	}
+	.mg_container .input_row .quickbutton
+	{
+		float:left;
+	}
+	
+	
+	/* contact */
+	#fh5co-contact
+	{
+		padding-top: 20px;
+	}
+	#contactForm
+	{
+		width: 90%;
+		margin-left: 5%;
+		text-align: justify;
+		margin-top: 30px;
+	}
+	
+	#contactForm input[type="submit"]
+	{
+		width:100%;
+	}
+	
+	/* dashboard */
+	.desktop
+	{
+		display:none;
+	}
+	.mg_dashboard
+	{
+		padding-top: 30px !important;
+	}
+	
+	.mg_dashboard .intest .team_name
+	{
+		margin-top:10px;
+	}
+	
+	.mg_dashboard .intest .team_id
+	{
+		margin-top:10px;	
+	}
+	
+	.mg_dashboard .controls .scorer_category
+	{
+		width: 100%;
+		margin-bottom: 5px;
+	}
+	
+	.mg_dashboard .controls .scorer_control
+	{
+		margin-bottom:5px;
+		width:48%;
+		font-size:14px;
+	}
+	
+	.int 
+	{
+		font-size:12px !important;
+		padding-top:11px !important;
+	}
+	
+	.mg_dashboard .scorer_tables .table .table_values .row_val
+	{
+		height:auto;
+	}
+	
+	.row_val .big_id
+	{
+		float:left;
+		font-size:12px !important;
+		width:15%;
+	}
+	
+	.row_val .big_player
+	{
+		float:left;
+		width:34%;
+		text-align:center;
+	}
+	
+	.row_val .id
+	{
+		width: 15%;
+		font-size: 11px;
+		padding-top: 9px;
+	}
+	.row_val .player
+	{
+		float: left;
+		width: 34%;
+		font-size: 17px;
+		text-align: left;
+		padding-top: 3px;
+		padding-left: 3px;
+	}
+	.row_val .goals
+	{
+		width: 17%;
+		text-align: center;
+	}
+	
+	.row_val .presenze
+	{
+		width: 17%;
+		text-align: center;
+	}
+	.row_val .average
+	{
+		width: 17%;
+		text-align: center;
+	}
+}
+
+/* ipad portrait */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : portrait){
+	.htlogo
+	{
+		margin-bottom:15px;	
+	}
+	#fh5co-menu-wrap
+	{
+		display:none;
+		width:100%;
+		padding-bottom:10px;
+	}
+	.sf-menu
+	{
+		width:100%;
+		margin-left:0px;
+	}
+	.sf-menu li
+	{
+		float:left;
+		width:100%;
+	}
+	
+	/* index */
+	.responsive_just
+	{
+		text-align:justify;
+	}
+	.mg_second_section .services
+	{
+		height:375px;
+	}
+	
+	/* scorer */
+	#register-form
+	{
+		padding-left:0px;
+	}
+	.mg_container .input_row .form_button
+	{
+		width:20%;
+		margin-left:81%;
+	}
+	.mg_container .input_row .form_button2
+	{
+		margin-left:78%;
+	}
+	
+	/* contact */
+	#fh5co-contact
+	{
+		padding-top: 20px;
+	}
+	#contactForm
+	{
+		width: 90%;
+		margin-left: 5%;
+		text-align: justify;
+		margin-top: 30px;
+	}
+	
+	#contactForm input[type="submit"]
+	{
+		width:100%;
+	}
+	
+	/* dashboard */
+	.desktop
+	{
+		display:none;
+	}
+	#fh5co-feature-product
+	{
+		padding-top:20px;
+	}
+	.mg_dashboard .controls .scorer_category
+	{
+		width: 100%;
+		margin-bottom: 15px;
+	}
+	.mg_dashboard .controls .scorer_control
+	{
+		width:23%;
+		min-height:60px;
+		margin-bottom:15px;
+	}
+	.mg_dashboard .intest .team_logo img
+	{
+		width:75px;
+	}
+	.mg_dashboard .intest .team_name
+	{
+		margin-top:17px;	
+	}
+	.mg_dashboard .intest .team_id
+	{
+		margin-top:15px;	
+	}
+	
+	.table_values .int
+	{
+		font-size:15px !important;
+	}
+	
+	.row_val .big_id
+	{
+		float:left;
+		width:15%;
+		font-size:15px !important;
+	}
+	.row_val .big_player
+	{
+		text-align:center;
+		float:left;
+		width:35%;
+	}	
+	.row_val .id
+	{
+		width: 15%;
+		font-size: 11px;
+		padding-top: 9px;
+	}
+	.row_val .player
+	{
+		float: left;
+		width: 35%;
+		font-size: 17px;
+		text-align: left;
+		padding-top: 3px;
+		padding-left: 3px;
+	}
+	.row_val .goals
+	{
+		width: 16%;
+		text-align: center;
+	}
+	.row_val .presenze
+	{
+		width: 16%;
+		text-align: center;
+	}
+	.row_val .average
+	{
+		width: 16%;
+		text-align: center;
+	}
+	
+	/* analyzer */
+	.season_status
+	{
+		font-size: 25px;
+	}
+	
+	.an_right
+	{
+		display:none;
+	}
+	
+	.progress_bar 
+	{
+		margin-bottom: 100px;
+	}
+}
+
+/* ipad landscape */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : landscape){
+	
+	/* scorer */
+	.mg_container .error_box,.mg_container .success_box
+	{
+		width:90%;
+		margin-left:5%;
+		margin-right:5%;
+	}
+	.mg_container .title,.mg_container .subtitle
+	{
+		text-align:center;
+		font-size:14px;
+	}
+	.mg_container .input_row .labelf
+	{
+		width:100%;
+		margin-bottom:5px;
+	}
+	.mg_container .input_row .control
+	{
+		width: 90%;
+		margin-left: 5%;
+	}
+	.mg_container .input_row .form_button
+	{
+		width:90%;
+		margin-left:5%;
+	}
+	#register-form
+	{
+		padding-left:0px;
+		float:left;
+	}
+	.mg_container .input_row .form_button2
+	{
+		width:90%;
+		margin-left:5%;
+	}
+	.mg_container .input_row .quickbutton
+	{
+		float:left;
+	}
+	
+	/* contact */
+	#contactForm input[type="submit"]
+	{
+		width:100%;
+	}
+	
+	/* dashboard */
+	#fh5co-feature-product
+	{
+		padding-top:20px;
+	}	
+	.mg_dashboard .controls .scorer_category
+	{
+		width: 100%;
+		margin-bottom: 15px;
+	}
+	.mg_dashboard .controls .scorer_control
+	{
+		width:23%;
+		min-height:42px;
+		margin-bottom:8px;
+	}
+	.mg_dashboard .intest .team_logo img
+	{
+		width:75px;
+	}
+	.mg_dashboard .intest .team_name
+	{
+		margin-top:17px;	
+	}
+	.mg_dashboard .intest .team_id
+	{
+		margin-top:15px;	
+	}
+	.table_values .int
+	{
+		font-size:15px !important;
+	}	
+	.row_val .big_id
+	{
+		float:left;
+		width:13%;
+		font-size:15px !important;
+	}
+	
+	.row_val .innerseason
+	{
+		margin-left:25px;
+	}
+	
+	/* analyzer */
+	.season_status
+	{
+		font-size: 25px;
+	}
+	
+	.an_right
+	{
+		display:none;
+	}
+	
+	.progress_bar 
+	{
+		margin-bottom: 100px;
+	}
+
+}
+
+/* notebook + */
+/* ipad landscape */
+@media only screen 
+and (min-device-width : 1024px) 
+{
+	.intro_no_border
+	{
+		display:block;
+	}
+}
