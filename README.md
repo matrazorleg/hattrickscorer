@@ -1,5 +1,5 @@
 # HattrickScorer
-Hello everyone, this is the HattricScorer source code.
+Hello everyone, this is the HattrickScorer source code.
 In order to setup correctly the tool some actions are required.
 
 ## Configuration
